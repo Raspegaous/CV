@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import '../../styles/app.css'
+import './assets/styles/app.css'
 import Skill from '@/components/Skill'
 import Pro from '@/components/Pro'
 import Navbar from "@/components/Navbar"
