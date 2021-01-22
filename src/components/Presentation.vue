@@ -29,7 +29,7 @@
       </div>
     </article>
     <article>
-      <img src="/images/profil.jpg" alt="Photo">
+      <img src="/images/20210122_140252.png" alt="Photo">
     </article>
   </section>
 </template>
